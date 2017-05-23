@@ -1,0 +1,9 @@
+vim/.vim/.backup/*
+vim/.vim/.undo/*
+vim/.vim/.tmp/*
+vim/.vim/plugged/*
+
+!vim/.vim/.backup/.gitkeep
+!vim/.vim/.undo/.gitkeep
+!vim/.vim/.tmp/.gitkeep
+!vim/.vim/plugged/.gitkeep
