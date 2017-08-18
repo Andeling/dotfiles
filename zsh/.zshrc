@@ -35,6 +35,9 @@ if zplug check b4b4r07/enhancd; then
     export ENHANCD_DISABLE_DOT=1
 fi
 
+# Disable builtin command r (repeat last cmd)
+disable r
+
 alias py="python"
 alias du="du -sh"
 
