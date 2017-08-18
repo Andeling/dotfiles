@@ -32,6 +32,7 @@ zplug load
 
 if zplug check b4b4r07/enhancd; then
     export ENHANCD_FILTER=fzf
+    export ENHANCD_DISABLE_DOT=1
 fi
 
 alias py="python"
